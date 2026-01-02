@@ -1,0 +1,3 @@
+opponet can play with game id  or link
+opponent can play with game with random player
+progessive web app
